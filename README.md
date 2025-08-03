@@ -39,7 +39,7 @@ The application uses two main tables with a one-to-many relationship:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/PiotrSmola/ConsoleCookbook.git
 cd ConsoleCookbook
 ```
 
